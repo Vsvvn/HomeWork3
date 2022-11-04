@@ -75,7 +75,7 @@ public class Main {
         short eggsWeight = 4 * 70;
         int weightOfProductsInGram = bananaWeight + milkWeight + iceCreamWeight + eggsWeight;
         float weightOfProductsInKiloGram = weightOfProductsInGram / 1000f;
-        System.out.println("Вес продутов в килограммах равен " + weightOfProductsInKiloGram + " кг");
+        System.out.println("Вес продутов в килограммах равен " + weightOfProductsInKiloGram + " кг.");
 
         System.out.println("Задача № 7");
         byte needToLoseWeightKg = 7;
