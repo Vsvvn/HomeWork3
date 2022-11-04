@@ -87,7 +87,7 @@ public class Main {
         int averageOfWeightLoss = (daysToLoseWeightDiet1 + daysToLoseWeightDiet2) / 2;
         System.out.println("Если спортсмен будет терять каждый день по " + diet1LoseWeightPerDayGm + " грамм, то потребуется " + daysToLoseWeightDiet1 + " дней");
         System.out.println("Если спортсмен будет терять каждый день по " + diet2LoseWeightPerDayGm + " грамм, то потребуется " + daysToLoseWeightDiet2 + " дней");
-        System.out.println("В среднем, чтобы добиться результата похудения потребуется " + averageOfWeightLoss + " дней");
+        System.out.println("В среднем, чтобы добиться результата похудения потребуется " + averageOfWeightLoss + " дней.");
 
         System.out.println("Задача № 8");
         int MashaMonthlySalary = 67760;
